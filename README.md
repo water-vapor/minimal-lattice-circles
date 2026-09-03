@@ -6,7 +6,7 @@ My codebase is currently messy, I plan to release it when I have more time to cl
 
 ## Comparison with existing efforts
 
-Compared with `enigmatic-code/lattice_circles` master (as of Aug 2026) at commit [`90f186a3a9dc79a967efbe6cf61e52159f8e1fcb`](https://github.com/enigmatic-code/lattice_circles/commit/90f186a3a9dc79a967efbe6cf61e52159f8e1fcb), this repo has:
+Compared with `enigmatic-code/lattice_circles` master (as of Sep 2026) at commit [`90f186a3a9dc79a967efbe6cf61e52159f8e1fcb`](https://github.com/enigmatic-code/lattice_circles/commit/90f186a3a9dc79a967efbe6cf61e52159f8e1fcb), this repo has:
 
-- **54628** common n values have a strictly smaller radius
-- **40249** additional non-trivial n values are included (116408 total vs 76159)
+- **58092** common n values have a strictly smaller radius
+- **226998** additional non-trivial n values are included (303157 total vs 76159)
